@@ -1,1 +1,1 @@
-print('hello world')
+print('Bohdy má ráda džusíky')
