@@ -13,4 +13,5 @@ def f(x):
 for i in range(1, 1000000):
   a=[]
   f(i)
-  print(i, "gives output" ,a)  
+  print(i, "gives output" ,a)
+exit()
